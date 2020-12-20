@@ -1,1 +1,2 @@
 Esta es una lecturita Simple de pruebita
+Esta es una segunda prueba para git. La cosa va bastante bien
