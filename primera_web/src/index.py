@@ -10,5 +10,9 @@ def home ():
 def about ():
     return render_template ('about.html')
 
+@app.route('/compromisos')
+def compromisos ():
+    return render_template ('compromisos.html')
+
 if __name__ == '__main__':
     app.run(debug= True)    
